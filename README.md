@@ -2,6 +2,12 @@
 
 Welcome to my GitHub universe where coding, creativity, and innovation collide! 🚀
 
+<div align="center" >
+ <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaSOouD69&layout=compact" />
+ <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MaSOouD69&show_icons=true&hide=issues,contribs&count_private=true" />
+</div>
+<br>
+
 ## About Me 🌟
 I'm Masoud Arefi, a data enthusiast and aspiring data scientist currently immersed in the world of data at BrainStation. With a solid foundation in Industrial Engineering, I blend analytical thinking with a knack for problem-solving. I'm passionately exploring Python, SQL, and the exciting realm of Machine Learning. When I'm not decoding data puzzles, you might find me seeking the next tech innovation or exchanging ideas at tech meetups.
 
