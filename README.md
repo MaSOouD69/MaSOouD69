@@ -43,11 +43,13 @@ I'm Masoud Arefi, a data enthusiast and aspiring data scientist currently immers
 </div>
 
 - **Programming Languages:** `Python`, `R`, `SQL` (including `MySQL` and `PostgreSQL`)
+- **R Libraries:** `Tidyverse`, `ggplot2`, `igraph`, `statnet`, `rsiena`
 - **Data Analysis Libraries:** `NumPy`, `Pandas`, `SciPy`
 - **Visualization Tools:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
 - **Statistical Analysis:** Expertise in power analysis, effect sizes, multivariate analysis, predictive modeling techniques (e.g., ANOVA, regression), social network analysis, and meta-analysis.
 - **Machine Learning Frameworks:** Proficient with `TensorFlow`, `Scikit-learn`, `XGBoost`, `PyTorch`
 - **Big Data Technologies:** Experienced with `AWS`, `Hadoop`, `Spark`, `Hive`, `Docker`
+
 
 
 ## Let's Connect! 🌐
