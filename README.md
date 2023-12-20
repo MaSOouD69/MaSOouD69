@@ -25,10 +25,6 @@ I'm Masoud Arefi, a data enthusiast and aspiring data scientist currently immers
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="icon/dplyr.png" title="dplyr" alt="dplyr" width="40" height="40"/>&nbsp;
-  <img src="icon/ggplot2.png" title="ggplot2" alt="ggplot2" width="40" height="40"/>&nbsp;
-  <img src="icon/statnet.png" title="statnet" alt="statnet" width="40" height="40"/>&nbsp;
-  <img src="icon/igraph2.png" title="igraph" alt="igraph" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
@@ -43,7 +39,6 @@ I'm Masoud Arefi, a data enthusiast and aspiring data scientist currently immers
 </div>
 
 - **Programming Languages:** `Python`, `R`, `SQL` (including `MySQL` and `PostgreSQL`)
-- **R Libraries:** `Tidyverse`, `ggplot2`, `igraph`, `statnet`, `rsiena`
 - **Data Analysis Libraries:** `NumPy`, `Pandas`, `SciPy`
 - **Visualization Tools:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
 - **Statistical Analysis:** Expertise in power analysis, effect sizes, multivariate analysis, predictive modeling techniques (e.g., ANOVA, regression), social network analysis, and meta-analysis.
