@@ -23,25 +23,21 @@ I am a data scientist who recently graduated from BrainStation's 12-week data sc
 ![Bike Usage](images/Bike%20Usage.png)
 - **Objective**: Analyze bike usage patterns across the city.
 - **Tools**: Python, Tableau, Pandas
-- [View Project](link-to-project-repo)
 
 ### 2. Virus Spread Analysis
 ![Virus Spread](images/Virus%20Spread.png)
 - **Objective**: Study the spread of a virus using correlation heatmaps.
 - **Tools**: Python, Seaborn, Pandas
-- [View Project](link-to-project-repo)
 
 ### 3. Hotel Reviews Analysis
 ![Hotel Reviews](images/Hotel%20Reviews.png)
 - **Objective**: Identify key words predictive of good reviews.
 - **Tools**: Python, Matplotlib, Scikit-learn
-- [View Project](link-to-project-repo)
 
 ### 4. Loan Default Prediction (Ongoing)
 ![Loan Default Prediction](images/Loan%20Default%20Prediction.png)
 - **Objective**: Predict loan defaults using various machine learning models.
 - **Tools**: Python, Scikit-learn, XGBoost
-- [View Project](link-to-project-repo)
 
 ### Capstone Project: Stroke Tool Prediction
 - **Objective**: Develop a predictive tool for stroke risk assessment.
