@@ -1,6 +1,6 @@
 # Masoud Arefi
 
-Welcome to my GitHub portfolio! I am a data scientist with a background in Industrial Engineering and a passion for uncovering insights through data analysis and machine learning.
+Welcome to my GitHub portfolio! I am a Data Analyst with a robust background in engineering and data science, excelling in optimizing data-driven strategies within technology-focused companies.
 
 <div align="center" >
  <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaSOouD69&layout=compact" />
@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I am a data scientist with a background in Indus
 <br>
 
 ## About Me
-I am a data scientist who recently graduated from BrainStation's 12-week data science bootcamp. My expertise lies in Python, SQL, and machine learning, and I have a strong foundation in Industrial Engineering. I enjoy solving complex problems and continuously learning new technologies.
+As a Data Analyst, I specialize in strategic data analysis, cross-functional collaboration, and data-driven innovation. My expertise includes using advanced analytics tools like Power BI and Python to drive decision-making and enhance operational efficiency. I am committed to leveraging data insights to influence fintech product strategies, focusing on improving customer acquisition and engagement through targeted analysis and reporting.
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
@@ -19,31 +19,42 @@ I am a data scientist who recently graduated from BrainStation's 12-week data sc
 - **Big Data Technologies**: AWS, Hadoop, Spark, Hive
 
 ## Projects
-### 1. Bike Usage Analysis
-![Bike Usage](images/1.%20Bike%20Usage.png)
-- **Objective**: Analyze bike usage patterns across the city.
-- **Tools**: Python, Tableau, Pandas
-
-### 2. Virus Spread Analysis
-![Virus Spread](images/2.%20Virus%20Spread.png)
-- **Objective**: Study the spread of a virus using correlation heatmaps.
-- **Tools**: Python, Seaborn, Pandas
-
-### 3. Hotel Reviews Analysis
+### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨 (Dec 2023)
 ![Hotel Reviews](images/3.%20Hotel%20Reviews.png)
-- **Objective**: Identify key words predictive of good reviews.
+- **Objective**: Implemented topic modeling and sentiment analysis for user reviews.
 - **Tools**: Python, Matplotlib, Scikit-learn
+- **Highlights**:
+  - Focused on feature engineering and natural language processing techniques.
+  - Employed classification models to gain insights into user behavior.
+  - Improved conversion rate by understanding customer sentiments.
 - [View Project](https://github.com/MaSOouD69/hotel-reviews-assignment)
 
-### 4. Loan Default Prediction (Ongoing)
+### Data Analyst | Predictive Analysis of West Nile Virus Spread 🦟 (Nov 2023)
+![Virus Spread](images/2.%20Virus%20Spread.png)
+- **Objective**: Employed ETL processes to prepare mosquito tracking data for analysis.
+- **Tools**: Python, Seaborn, Pandas
+- **Highlights**:
+  - Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
+  - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
+  - Implemented regression predictive modeling to understand mosquito tracking data.
+
+### Data Analyst | Trend Analysis and Visualization of Bixi Bike Usage 🚲 (Dec 2023)
+![Bike Usage](images/1.%20Bike%20Usage.png)
+- **Objective**: Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviors in Bixi bike usage.
+- **Tools**: Python, Tableau, SQL
+- **Highlights**:
+  - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
+  - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
+
+### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰 (Ongoing, Jan 2024)
 ![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
 - **Objective**: Predict loan defaults using various machine learning models.
 - **Tools**: Python, Scikit-learn, XGBoost
-
-### 5. Machine Learning Prediction of Marriage Success
-- **Objective**: Predict marital stability and identify key factors influencing marriage outcomes using various machine learning classification algorithms.
-- **Tools**: Python, Scikit-learn
-- [View Project](https://github.com/MaSOouD69/Divorse-)
+- **Highlights**:
+  - Implemented data cleaning and preprocessing on an extensive dataset.
+  - Explored relationships and insights using Exploratory Data Analysis.
+  - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
+  - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
 
 ### Capstone Project: Stroke Tool Prediction
 - **Objective**: Develop a predictive tool for stroke risk assessment.
