@@ -33,16 +33,22 @@ I am a data scientist who recently graduated from BrainStation's 12-week data sc
 ![Hotel Reviews](images/3.%20Hotel%20Reviews.png)
 - **Objective**: Identify key words predictive of good reviews.
 - **Tools**: Python, Matplotlib, Scikit-learn
+- [View Project](https://github.com/MaSOouD69/hotel-reviews-assignment)
 
 ### 4. Loan Default Prediction (Ongoing)
 ![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
 - **Objective**: Predict loan defaults using various machine learning models.
 - **Tools**: Python, Scikit-learn, XGBoost
 
+### 5. Machine Learning Prediction of Marriage Success
+- **Objective**: Predict marital stability and identify key factors influencing marriage outcomes using various machine learning classification algorithms.
+- **Tools**: Python, Scikit-learn
+- [View Project](https://github.com/MaSOouD69/Divorse-)
+
 ### Capstone Project: Stroke Tool Prediction
 - **Objective**: Develop a predictive tool for stroke risk assessment.
 - **Tools**: Python, Streamlit
-- [View Project](https://stroke-prediction-zmzmmwv9pbxyxg9ylsffdn.streamlit.app/)
+- [View Project](https://github.com/MaSOouD69/capstone-repo)
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/masoud-arefi/)**
