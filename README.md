@@ -20,22 +20,22 @@ I am a data scientist who recently graduated from BrainStation's 12-week data sc
 
 ## Projects
 ### 1. Bike Usage Analysis
-![Bike Usage](images/Bike%20Usage.png)
+![Bike Usage](images/1.%20Bike%20Usage.png)
 - **Objective**: Analyze bike usage patterns across the city.
 - **Tools**: Python, Tableau, Pandas
 
 ### 2. Virus Spread Analysis
-![Virus Spread](images/Virus%20Spread.png)
+![Virus Spread](images/2.%20Virus%20Spread.png)
 - **Objective**: Study the spread of a virus using correlation heatmaps.
 - **Tools**: Python, Seaborn, Pandas
 
 ### 3. Hotel Reviews Analysis
-![Hotel Reviews](images/Hotel%20Reviews.png)
+![Hotel Reviews](images/3.%20Hotel%20Reviews.png)
 - **Objective**: Identify key words predictive of good reviews.
 - **Tools**: Python, Matplotlib, Scikit-learn
 
 ### 4. Loan Default Prediction (Ongoing)
-![Loan Default Prediction](images/Loan%20Default%20Prediction.png)
+![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
 - **Objective**: Predict loan defaults using various machine learning models.
 - **Tools**: Python, Scikit-learn, XGBoost
 
