@@ -14,11 +14,25 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 ## Skills
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis Libraries**: NumPy, Pandas, SciPy
-- **Visualization Tools**: Tableau, Matplotlib, Plotly, Seaborn
+- **Visualization Tools**: Tableau, Matplotlib, Plotly, Seaborn, Power BI
 - **Machine Learning Frameworks**: TensorFlow, Scikit-learn, XGBoost, PyTorch
 - **Big Data Technologies**: AWS, Hadoop, Spark, Hive
+- **Cloud Computing**: Amazon Web Services (AWS), AWS EC2, AWS EMR, AWS Glue, AWS S3, PySpark
+- **Database Management**: MySQL, PostgreSQL, Microsoft SQL Servers, MongoDB
+- **Business Intelligence and Strategy**: Business intelligence, Data visualization, KPI, Lean Six Sigma, Process analysis, Project management
+- **Statistical Techniques**: Bayesian methods, Regression analysis, Hypothesis testing
 
 ## Projects
+### Capstone Project: Stroke Tool Prediction
+- **Objective**: Develop a predictive tool for stroke risk assessment with a web interface.
+- **Tools**: Python, Streamlit
+- **Highlights**:
+  - Created an interactive web application for stroke prediction.
+  - Implemented machine learning models to predict stroke risk based on user input.
+  - Developed user-friendly interface to ensure ease of use for non-technical users.
+- [View Project](https://github.com/MaSOouD69/capstone-repo)
+- [Try the Tool](https://stroke-prediction-zmzmmwv9pbxyxg9ylsffdn.streamlit.app/)
+
 ### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨 (Dec 2023)
 ![Hotel Reviews](images/3.%20Hotel%20Reviews.png)
 - **Objective**: Implemented topic modeling and sentiment analysis for user reviews.
@@ -55,11 +69,6 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
   - Explored relationships and insights using Exploratory Data Analysis.
   - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
   - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
-
-### Capstone Project: Stroke Tool Prediction
-- **Objective**: Develop a predictive tool for stroke risk assessment.
-- **Tools**: Python, Streamlit
-- [View Project](https://github.com/MaSOouD69/capstone-repo)
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/masoud-arefi/)**
