@@ -24,7 +24,7 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 
 ## Projects
 ### Capstone Project: Stroke Tool Prediction
-![Stroke Prediction](images/Why%20we%20die.png)
+![Stroke Prediction](images/Why%20we%20die.jpg)
 - **Objective**: Develop a predictive tool for stroke risk assessment with a web interface.
 - **Tools**: Python, Streamlit
 - **Highlights**:
