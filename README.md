@@ -70,6 +70,7 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
   - Explored relationships and insights using Exploratory Data Analysis.
   - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
   - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
+- [View Project](https://github.com/MaSOouD69/Loan-prediction)
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/masoud-arefi/)**
