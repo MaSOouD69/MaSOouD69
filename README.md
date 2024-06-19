@@ -26,7 +26,7 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 ### Capstone Project: Stroke Tool Prediction
 ![Stroke Prediction](images/Why%20we%20die.jpg)
 - **Objective**: Develop a predictive tool for stroke risk assessment with a web interface.
-- **Tools**: Python, Streamlit
+- **Tools**: Python, Streamlit, Matplotlib, Scikit-learn, Nltk, Pandas, NumPy, Seaborn.
 - **Highlights**:
   - Created an interactive web application for stroke prediction.
   - Implemented machine learning models to predict stroke risk based on user input.
@@ -37,7 +37,7 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 ### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨 (Dec 2023)
 ![Hotel Reviews](images/3.%20Hotel%20Reviews.png)
 - **Objective**: Implemented topic modeling and sentiment analysis for user reviews.
-- **Tools**: Python, Matplotlib, Scikit-learn
+- **Tools**: Python, Matplotlib, Scikit-learn, Nltk, Seaborn, Pandas, NumPy
 - **Highlights**:
   - Focused on feature engineering and natural language processing techniques.
   - Employed classification models to gain insights into user behavior.
@@ -47,7 +47,7 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 ### Data Analyst | Predictive Analysis of West Nile Virus Spread 🦟 (Nov 2023)
 ![Virus Spread](images/2.%20Virus%20Spread.png)
 - **Objective**: Employed ETL processes to prepare mosquito tracking data for analysis.
-- **Tools**: Python, Seaborn, Pandas
+- **Tools**: Python, Seaborn, Pandas, NumPy
 - **Highlights**:
   - Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
   - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
@@ -64,12 +64,13 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 ### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰 (Ongoing, Jan 2024)
 ![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
 - **Objective**: Predict loan defaults using various machine learning models.
-- **Tools**: Python, Scikit-learn, XGBoost
+- **Tools**: Python, Scikit-learn, XGBoost,Matplotlib, Scikit-learn, Nltk, Pandas, NumPy,
 - **Highlights**:
   - Implemented data cleaning and preprocessing on an extensive dataset.
   - Explored relationships and insights using Exploratory Data Analysis.
   - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
   - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
+- [View Project](https://github.com/MaSOouD69/Loan-prediction)
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/masoud-arefi/)**
