@@ -1,3 +1,33 @@
+# Welcome to Masoud Arefi's GitHub!
+
+![Profile Views](https://komarev.com/ghpvc/?username=MaSOouD69&color=brightgreen)
+
+I'm a seasoned Data Analyst with a strong background in engineering and data science, focusing on leveraging data to drive strategic decision-making in technology-focused sectors.
+
+![Masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaSOouD69&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaSOouD69&layout=compact&theme=radical)
+
+## About Me
+👨‍💻 With a robust foundation in both the theoretical and practical aspects of data science and analytics, I strive to bridge the gap between data and actionable insights.
+
+🔍 I'm particularly passionate about machine learning and predictive analytics, constantly seeking out new challenges that push the envelope of what's possible with data.
+
+## Skills
+`Python` | `R` | `SQL` | `NumPy` | `Pandas` | `SciPy` | `Tableau` | `Power BI` | `Machine Learning` | `AWS` | `Big Data`
+
+## Latest Projects
+<!-- PROJECT:START -->
+- [Predicting Loan Default with A Machine Learning Approach: Paycast 💰](https://github.com/MaSOouD69/Loan-prediction) (Ongoing, Jan 2024)
+- [Stroke Tool Prediction 🧠](https://github.com/MaSOouD69/capstone-repo)
+<!-- PROJECT:END -->
+
+## Connect with Me
+- 📫 **Email**: [masooud.arefi.69@gmail.com](mailto:masooud.arefi.69@gmail.com)
+- 💼 **LinkedIn**: [Masoud Arefi](https://www.linkedin.com/in/masoud-arefi/)
+- 🌐 **Website**: Coming soon!
+
+Feel free to explore my repositories, and let's connect to discuss opportunities, collaborations, or just to share ideas!
+
 ## Projects
 ### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰 (Ongoing, Jan 2024)
 ![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
