@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaSOouD69&color=brightgreen)
 
-I'm a seasoned Data Analyst with a strong background in engineering and data science, focusing on leveraging data to drive strategic decision-making in technology-focused sectors.
+I'm a seasoned Data Analyst with a background in engineering and data science, focusing on leveraging data to drive strategic decision-making in technology-focused sectors.
 
 ![Masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaSOouD69&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaSOouD69&layout=compact&theme=radical)
@@ -17,8 +17,8 @@ I'm a seasoned Data Analyst with a strong background in engineering and data sci
 
 ## Latest Projects
 <!-- PROJECT:START -->
-- [Predicting Loan Default with A Machine Learning Approach: Paycast 💰](https://github.com/MaSOouD69/Loan-prediction) (Ongoing, Jan 2024)
-- [Stroke Tool Prediction 🧠](https://github.com/MaSOouD69/capstone-repo)
+- [Predicting Loan Default with A Machine Learning Approach: Paycast 💰](https://github.com/MaSOouD69/Loan_Predictor)
+- [Stroke Tool Prediction 🧠](https://github.com/MaSOouD69/Stroke-Prediction-Web-App-Tool)
 <!-- PROJECT:END -->
 
 ## Connect with Me
@@ -29,7 +29,7 @@ I'm a seasoned Data Analyst with a strong background in engineering and data sci
 Feel free to explore my repositories, and let's connect to discuss opportunities, collaborations, or just to share ideas!
 
 ## Projects
-### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰 (Ongoing, Jan 2024)
+### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰
 ![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
 - **Objective**: Predict loan defaults using various machine learning models.
 - **Tools**: Python, Scikit-learn, XGBoost, Matplotlib, Pandas, NumPy
@@ -38,7 +38,7 @@ Feel free to explore my repositories, and let's connect to discuss opportunities
   - Explored relationships and insights using Exploratory Data Analysis.
   - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
   - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
-- [View Project](https://github.com/MaSOouD69/Loan-prediction)
+- [View Project](https://github.com/MaSOouD69/Loan_Predictor)
 
 ### Capstone Project: Stroke Tool Prediction
 ![Stroke Prediction](images/Why%20we%20die.jpg)
@@ -48,7 +48,7 @@ Feel free to explore my repositories, and let's connect to discuss opportunities
   - Created an interactive web application for stroke prediction.
   - Implemented machine learning models to predict stroke risk based on user input.
   - Developed user-friendly interface to ensure ease of use for non-technical users.
-- [View Project](https://github.com/MaSOouD69/capstone-repo)
+- [View Project](https://github.com/MaSOouD69/Stroke-Prediction-Web-App-Tool)
 - [Try the Tool](https://stroke-prediction-zmzmmwv9pbxyxg9ylsffdn.streamlit.app/)
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨 (Dec 2023)
