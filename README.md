@@ -1,28 +1,15 @@
-# Masoud Arefi
-
-Welcome to my GitHub portfolio! I am a Data Analyst with a robust background in engineering and data science, excelling in optimizing data-driven strategies within technology-focused companies.
-
-<div align="center" >
- <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaSOouD69&layout=compact" />
- <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MaSOouD69&show_icons=true&hide=issues,contribs&count_private=true" />
-</div>
-<br>
-
-## About Me
-As a Data Analyst, I specialize in strategic data analysis, cross-functional collaboration, and data-driven innovation. My expertise includes using advanced analytics tools like Power BI and Python to drive decision-making and enhance operational efficiency. I am committed to leveraging data insights to influence fintech product strategies, focusing on improving customer acquisition and engagement through targeted analysis and reporting.
-
-## Skills
-- **Programming Languages**: Python, R, SQL
-- **Data Analysis Libraries**: NumPy, Pandas, SciPy
-- **Visualization Tools**: Tableau, Matplotlib, Plotly, Seaborn, Power BI
-- **Machine Learning Frameworks**: TensorFlow, Scikit-learn, XGBoost, PyTorch
-- **Big Data Technologies**: AWS, Hadoop, Spark, Hive
-- **Cloud Computing**: Amazon Web Services (AWS), AWS EC2, AWS EMR, AWS Glue, AWS S3, PySpark
-- **Database Management**: MySQL, PostgreSQL, Microsoft SQL Servers, MongoDB
-- **Business Intelligence and Strategy**: Business intelligence, Data visualization, KPI, Lean Six Sigma, Process analysis, Project management
-- **Statistical Techniques**: Bayesian methods, Regression analysis, Hypothesis testing
-
 ## Projects
+### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰 (Ongoing, Jan 2024)
+![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
+- **Objective**: Predict loan defaults using various machine learning models.
+- **Tools**: Python, Scikit-learn, XGBoost, Matplotlib, Pandas, NumPy
+- **Highlights**:
+  - Implemented data cleaning and preprocessing on an extensive dataset.
+  - Explored relationships and insights using Exploratory Data Analysis.
+  - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
+  - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
+- [View Project](https://github.com/MaSOouD69/Loan-prediction)
+
 ### Capstone Project: Stroke Tool Prediction
 ![Stroke Prediction](images/Why%20we%20die.jpg)
 - **Objective**: Develop a predictive tool for stroke risk assessment with a web interface.
@@ -60,20 +47,3 @@ As a Data Analyst, I specialize in strategic data analysis, cross-functional col
 - **Highlights**:
   - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
   - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
-
-### Data Scientist | Predicting Loan Default with A Machine Learning Approach: Paycast 💰 (Ongoing, Jan 2024)
-![Loan Default Prediction](images/5.%20Loan%20Default%20Prediction.png)
-- **Objective**: Predict loan defaults using various machine learning models.
-- **Tools**: Python, Scikit-learn, XGBoost,Matplotlib, Scikit-learn, Nltk, Pandas, NumPy,
-- **Highlights**:
-  - Implemented data cleaning and preprocessing on an extensive dataset.
-  - Explored relationships and insights using Exploratory Data Analysis.
-  - Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest, and XGBoost, for accurate loan default prediction.
-  - Gained valuable insights into risk management, lending behaviors, and financial decision-making.
-- [View Project](https://github.com/MaSOouD69/Loan-prediction)
-
-## Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/masoud-arefi/)**
-- **Email**: masooud.arefi.69@gmail.com
-
-Feel free to explore my repositories and reach out for any collaboration or discussion!
